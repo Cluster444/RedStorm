@@ -1,0 +1,6 @@
+#!/bin/bash
+
+# Find files
+# git grep -l $'\r'
+# Strip CR
+# sed -ei $'/\r//'
