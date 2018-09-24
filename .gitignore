@@ -1,2 +1,6 @@
 Library
 Temp
+.idea
+*.sln
+*.csproj
+obj
